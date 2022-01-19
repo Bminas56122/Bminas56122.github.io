@@ -1,5 +1,4 @@
 # Bminas56122.github.io
-<!DOCTYPE html>
 <html>
 <body>
 <h4>BETA</h4>
