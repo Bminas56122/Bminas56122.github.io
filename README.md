@@ -1,6 +1,5 @@
 <html>
 <body>
-<h4>BETA</h4>
 
 <h4>GENERAL</h4>
 <p><a href="https://google.com">GOOGLE</a></p>
