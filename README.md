@@ -37,5 +37,5 @@ a:active {
 
 </body>
 </html> 
-© 2022 GitHub, Inc.
-Terms
+
+
