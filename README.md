@@ -3,26 +3,6 @@
 <html>
 <head>
 <style>
-a:link {
-  color: green;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:visited {
-  color: green;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:hover {
-  color: blue;
-  background-color: transparent;
-  text-decoration: underline;
-}
-a:active {
-  color: yellow;
-  background-color: transparent;
-  text-decoration: underline;
-}
 </style>
 </head>
 <body>
