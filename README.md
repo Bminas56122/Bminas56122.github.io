@@ -1,10 +1,6 @@
 # Bminas56122.github.io
 <!DOCTYPE html>
 <html>
-<head>
-<style>
-</style>
-</head>
 <body>
 <h4>BETA</h4>
 
